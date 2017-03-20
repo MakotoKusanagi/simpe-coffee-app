@@ -1,1 +1,1 @@
-# simpe-coffee-app
+# simple-coffee-app
